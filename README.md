@@ -9,8 +9,7 @@ This project demonstrates full-stack proficiency using **Next.js (App Router)** 
 
 ## 🚀 Live Demo
 
-- **Deployed App:** [https://your-deployment-url.vercel.app](https://your-deployment-url.vercel.app)
-- **GitHub Repository:** [https://github.com/yourusername/team-journal-app](https://github.com/yourusername/team-journal-app)
+- **Deployed App:** https://journal-app-three-nu.vercel.app/
 
 ---
 
