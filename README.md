@@ -1,8 +1,6 @@
 # 📘 Team Journal App — Powered by Next.js & Supabase
 
-## ✨ Objective
-
-Develop a **Team Journal** web application where users can securely **register, log in, and manage private journal entries**, with optional image uploads.  
+**Team Journal** web application where users can securely **register, log in, and manage private journal entries**, with optional image uploads.  
 This project demonstrates full-stack proficiency using **Next.js (App Router)** and **Supabase**, including secure data handling and a clean, responsive UI.
 
 ---
